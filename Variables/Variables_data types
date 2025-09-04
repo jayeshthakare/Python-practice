@@ -1,0 +1,18 @@
+#Date Types 
+a = 88
+print(type(a))
+
+b = 88.5
+print(type(b))
+
+c = "Jayesh"
+print(type(c))
+
+d = True
+print(type(d))
+
+a = 88.10
+print(type(a))
+
+b = int(b)
+print(type(b))
